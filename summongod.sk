@@ -1,3 +1,3 @@
 command /tradegod:
-  execute:
+  trigger:
     make console execute command: "tp InconspicuousDev %player%"
